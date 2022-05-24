@@ -251,7 +251,7 @@ legend("bottomleft",col=c("blue","green","purple"),
 ## Números en coma flotante
 
 | Código       | Función                                                                 |
-|-------------------|-----------------------------------------------------|
+|--------------|-------------------------------------------------------------------------|
 | `print(x,n)` | Muestra las $n$ cifras significativa del número $x$                     |
 | `round(x,n)` | Redondea a $n$ cifras significativas un resultado o vector numérico $x$ |
 | `floor(x)`   | $\lfloor x\rfloor$, parte entera por defecto de $x$                     |
@@ -283,7 +283,7 @@ cuadrado(miVariable)
 ## Números complejos
 
 | Código                              | Función                                                          |
-|------------------------------------|------------------------------------|
+|-------------------------------------|------------------------------------------------------------------|
 | `a+bi`                              | [Número complejo](https://es.wikipedia.org/wiki/Número_complejo) |
 | `complex(real=...,imaginary=...)`   | Número complejo en forma binómica                                |
 | `complex(modulus=...,argument=...)` | Número complejo en forma polar                                   |
